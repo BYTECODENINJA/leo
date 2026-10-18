@@ -4,42 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37d329b8-872a-4eca-8953-7429fbd169dd" name="Changes" comment="" />
+    <list default="true" id="37d329b8-872a-4eca-8953-7429fbd169dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="20" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BYTECODENINJA&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BYTECODENINJA/leo.git&quot;,
+    &quot;accountId&quot;: &quot;5c2f90f1-d21d-4dee-aae6-b8693f42463a&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0249310260925752" />
-      <entry key="MS500" value="1.9309544423055907" />
-      <entry key="S2" value="3.2051667577458915" />
-      <entry key="S5" value="3.64912021838232" />
-      <entry key="S10" value="3.8185119912492276" />
-      <entry key="S30" value="3.9381035401243043" />
-      <entry key="S60" value="3.968955919964506" />
-      <entry key="M2" value="4.010137454676958" />
-      <entry key="M5" value="4.79937042479032" />
-      <entry key="M10" value="6.535566692187058" />
-      <entry key="M15" value="7.719861254068036" />
-      <entry key="M30" value="9.455656149305693" />
-      <entry key="H1" value="10.606564770113042" />
-      <entry key="H2" value="11.26999983126492" />
-      <entry key="H4" value="11.626276663205497" />
-      <entry key="D1" value="11.936465451920117" />
-      <entry key="W1" value="11.990892611804416" />
+      <entry key="MS100" value="1.0010251140513784" />
+      <entry key="MS500" value="1.2692377183521988" />
+      <entry key="S2" value="2.6186852207593345" />
+      <entry key="S5" value="4.3104294944547" />
+      <entry key="S10" value="5.629785456212223" />
+      <entry key="S30" value="8.474618067671923" />
+      <entry key="S60" value="11.479319059977582" />
+      <entry key="M2" value="14.590011738651159" />
+      <entry key="M5" value="23.05450006034523" />
+      <entry key="M10" value="37.057669187279686" />
+      <entry key="M15" value="46.59293496016672" />
+      <entry key="M30" value="61.10232183780821" />
+      <entry key="H1" value="71.19374619629757" />
+      <entry key="H2" value="77.20667024000956" />
+      <entry key="H4" value="80.49842513098554" />
+      <entry key="D1" value="83.40115461717397" />
+      <entry key="W1" value="83.91406795694539" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -61,29 +86,29 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9564552958186495" />
-      <entry key="MS500" value="1.9054095203763703" />
-      <entry key="S2" value="3.194617178436174" />
-      <entry key="S5" value="3.644315666095822" />
-      <entry key="S10" value="3.815997930039146" />
-      <entry key="S30" value="3.937239188991739" />
-      <entry key="S60" value="3.968520243371454" />
-      <entry key="M2" value="4.009901505953225" />
-      <entry key="M5" value="4.799066958812799" />
-      <entry key="M10" value="6.53518326252149" />
-      <entry key="M15" value="7.719500264901922" />
-      <entry key="M30" value="9.455398450788095" />
-      <entry key="H1" value="10.606410330925554" />
-      <entry key="H2" value="11.269915236898651" />
-      <entry key="H4" value="11.62623238594426" />
-      <entry key="D1" value="11.93645778506474" />
-      <entry key="W1" value="11.990891509337638" />
+      <entry key="MS100" value="0.26157290543829365" />
+      <entry key="MS500" value="1.0296162693673103" />
+      <entry key="S2" value="2.54307187093771" />
+      <entry key="S5" value="4.2531893089193575" />
+      <entry key="S10" value="5.574058388381256" />
+      <entry key="S30" value="8.434472588350102" />
+      <entry key="S60" value="11.450731985677471" />
+      <entry key="M2" value="14.57205122867447" />
+      <entry key="M5" value="23.04592797910018" />
+      <entry key="M10" value="37.0528945253784" />
+      <entry key="M15" value="46.58954332520877" />
+      <entry key="M30" value="61.100451373157746" />
+      <entry key="H1" value="71.19274287976857" />
+      <entry key="H2" value="77.20614681572624" />
+      <entry key="H4" value="80.49815723027595" />
+      <entry key="D1" value="83.4011090353498" />
+      <entry key="W1" value="83.91406142143217" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3KsMMtpZ57X26E0yIMV5FpyF39I" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -94,6 +119,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -103,6 +129,7 @@
     "js.debugger.nextJs.config.created.server": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/home/killswitch0n3/Desktop/leo",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -110,7 +137,8 @@
     "nodejs_package_manager_path": "npm",
     "npm.Next.js: server-side.executor": "Run",
     "npm.start.executor": "Run",
-    "to.speed.mode.migration.done": "true"
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/home/killswitch0n3/.local/share/JetBrains/Toolbox/apps/webstorm/plugins/javascript-plugin/jsLanguageServicesImpl/external"
   }
 }]]></component>
   <component name="ReactDesignerToolWindowState">
@@ -118,6 +146,7 @@
       <map>
         <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
         <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
       </map>
     </option>
   </component>
@@ -165,7 +194,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1792341777842</updated>
-      <workItem from="1792341778961" duration="1339000" />
+      <workItem from="1792341778961" duration="2696000" />
+      <workItem from="1792344951732" duration="685000" />
     </task>
     <servers />
   </component>
